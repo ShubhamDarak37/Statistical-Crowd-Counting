@@ -79,9 +79,7 @@ WSGI_APPLICATION = 'ccform.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME':'Ccform',
-        'USER':'postgres',
-        'PASSWORD':'#ironmanROCKX64',
+        
         'HOST':'localhost',
         'PORT':'5433'
     }
