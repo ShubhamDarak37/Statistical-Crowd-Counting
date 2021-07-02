@@ -6,6 +6,8 @@
 
 ## Project Details:
 
+### Deep Learning model defination and prediction code is int mscnn/views.py file
+
 ### Register Area:
 #### The registeration process allows you to enter number of areas present in the shop.
 ![Output](/img/Screenshot420.png)
